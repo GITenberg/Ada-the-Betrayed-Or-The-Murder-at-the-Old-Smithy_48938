@@ -1,10 +1,16 @@
 _repo: Ada-the-Betrayed-Or-The-Murder-at-the-Old-Smithy_48938
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rymer, John Malcolm
     gutenberg_agent_id: '45051'
     url: http://www.gutenberg.org/2009/agents/45051
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48938#Ada-the-Betrayed-Or-The-Murder-at-the-Old-Smithy
 gutenberg_issued: '2015-05-12'
 gutenberg_type: Text
 identifiers:
